@@ -1,0 +1,4 @@
+disable_all_formatting = true
+
+# if in nigthly use instead,
+# ignore = ["/"]

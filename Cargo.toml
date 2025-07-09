@@ -1,0 +1,9 @@
+[package]
+name = "Raytracer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lints.rust]
+non_snake_case = { level = "allow" }
